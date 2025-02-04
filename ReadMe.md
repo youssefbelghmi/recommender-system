@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on developing a book recommendation system capable of predicting user ratings for books using a dataset of over 16,000 titles. Various recommendation techniques were implemented and evaluated to improve prediction accuracy. The goal was to explore different approaches to recommendation systems, highlighting their strengths and limitations while optimizing for both performance and efficiency.
+This project aims to build a book recommendation system that predicts user ratings based on a dataset of over 16,000 books. Different recommendation techniques were applied and assessed to enhance accuracy. The objective was to explore and compare various approaches, identifying their advantages and drawbacks while ensuring both performance and efficiency.
 
 ## Methods
 
