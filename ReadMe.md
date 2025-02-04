@@ -43,4 +43,4 @@ Future work could explore **hybrid approaches**, combining collaborative and con
 
 ## Authors
 
-This work was carried out by Youssef Belghmi, Hamza Morchid, and Amine Belghmi, Master Data Science students at EPFL, as part of the project in the Distributed Information Systems course (CS-423).
+This work was carried out by Youssef Belghmi, Hamza Morchid, and Amine Belghmi, Master Data Science students at EPFL, as part of the Distributed Information Systems (CS-423) course project.
